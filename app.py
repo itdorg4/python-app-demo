@@ -1,5 +1,2 @@
-
-username = "Virat"
-
-
-print(f"Hello {username}, welcome to ITD!!")
+user = "Rohith"
+print(f"Hello {user}, welcome to ITD!!")
