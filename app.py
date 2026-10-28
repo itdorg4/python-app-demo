@@ -1,2 +1,3 @@
 user = "Rohith"
-print(f"Hello {user}, welcome to ITD!!")
+print(f"Hello {user}")
+print("Welcome to ITD!!")
