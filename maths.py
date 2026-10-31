@@ -37,4 +37,5 @@ print("Division of 10 and 2 is = ", division(10,2))
 print("10 power 2 is = ", exp(10,2))
 
 print("Cube of 5 = ", cube(5))
+
 print("reminder when we devide 10 by 3 = ", reminder(10,3))
